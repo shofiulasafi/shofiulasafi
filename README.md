@@ -2,7 +2,7 @@
 - 👀 I’m interested work As  Frontend Developer
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...wwww.shofiulasafi.com
+- 📫 How to reach me wwww.shofiulasafi.com
 - email:shofiulasafi@gmail.com
 
 <!---
