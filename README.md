@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @shofiulasafi
-- 👀 I’m interested wwork As  Frontend Developer
+- 👀 I’m interested work As  Frontend Developer
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...wwww.shofiulasafi.com
+- email:shofiulasafi@gmail.com
 
 <!---
 shofiulasafi/shofiulasafi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
